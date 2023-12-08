@@ -8,9 +8,8 @@ package anhan;
  *
  * @author TAN LOC
  */
-public class abc {
+public class helll0 {
     public static void main(String[] args) {
-        System.out.println("abc");
-        System.out.println("jdhfkadsjf");
+        System.out.println("hello");
     }
 }
